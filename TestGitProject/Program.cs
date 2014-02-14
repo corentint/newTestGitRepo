@@ -10,8 +10,8 @@ namespace TestGitProject
         static void Main(string[] args)
         {
             Console.WriteLine("Yop");
-		// Evolution on the master branch sfrjhlsrfjkhzslerjh
 		// Again my master
+		// Evolution on the master branch here again!
         }
     }
 }

@@ -7,6 +7,6 @@ namespace TestGitProject
 {
     class Class1
     {
-		// My brand new class!
+		// My brand new class! zgzin
     }
 }
